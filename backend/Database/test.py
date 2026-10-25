@@ -6,7 +6,7 @@ import json
 import tempfile
 from pathlib import Path
 
-from database_storage import DatabaseStorage
+from backend.Database.database_storage import DatabaseStorage
 
 
 def main() -> None:
