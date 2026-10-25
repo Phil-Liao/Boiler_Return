@@ -152,6 +152,9 @@ activemq-data/
 # Environments
 .env
 .envrc
+.DS_Store
+Database/images/*
+!Database/images/.gitkeep
 .venv
 env/
 venv/
